@@ -1,0 +1,14 @@
+C:\cs\CodeGymT6\Animal\bin\Debug\net8.0\Animal.exe
+C:\cs\CodeGymT6\Animal\bin\Debug\net8.0\Animal.deps.json
+C:\cs\CodeGymT6\Animal\bin\Debug\net8.0\Animal.runtimeconfig.json
+C:\cs\CodeGymT6\Animal\bin\Debug\net8.0\Animal.dll
+C:\cs\CodeGymT6\Animal\bin\Debug\net8.0\Animal.pdb
+C:\cs\CodeGymT6\Animal\obj\Debug\net8.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\CodeGymT6\Animal\obj\Debug\net8.0\Animal.AssemblyInfoInputs.cache
+C:\cs\CodeGymT6\Animal\obj\Debug\net8.0\Animal.AssemblyInfo.cs
+C:\cs\CodeGymT6\Animal\obj\Debug\net8.0\Animal.csproj.CoreCompileInputs.cache
+C:\cs\CodeGymT6\Animal\obj\Debug\net8.0\Animal.dll
+C:\cs\CodeGymT6\Animal\obj\Debug\net8.0\refint\Animal.dll
+C:\cs\CodeGymT6\Animal\obj\Debug\net8.0\Animal.pdb
+C:\cs\CodeGymT6\Animal\obj\Debug\net8.0\Animal.genruntimeconfig.cache
+C:\cs\CodeGymT6\Animal\obj\Debug\net8.0\ref\Animal.dll
